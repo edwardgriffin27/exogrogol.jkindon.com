@@ -24,7 +24,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dengan mendaftar di situs EXOGROGOL terpercaya, Anda akan mendapatkan hadiah EXOGROGOL terbesar serta keuntungan yang akan dibayarkan dengan jumlah berapapun. Cara bermain togel 4D melalui situs togel terbesar di Asia ini juga sangatlah mudah dan dapat dilakukan dengan simpel melalui situs resmi agen togel terpercaya yang anda pilih.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://exogrogol.jkindon.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://exogrogol.jkindon.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 'assets/img/favicon.png'
 logo: 'assets/img/exo-logo.png'
 twitter_username: jekyllrb
